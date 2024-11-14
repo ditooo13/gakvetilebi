@@ -1,0 +1,33 @@
+#one {
+background-color: red;
+display: inline;
+width: 400px;
+
+}
+
+#two {
+display: block;
+background-color: purple;
+width: 40%;
+height: 300px;
+}
+
+
+#three {
+display: inline-block;
+background-color: green;
+}
+
+#four {
+display: none;
+background-color: yellow;
+}
+
+
+.box {
+display: inline-block;
+background-color: black;
+width: 100px;
+height: 100px;
+}
+
